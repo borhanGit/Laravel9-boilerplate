@@ -1,10 +1,10 @@
-# Laravel 9.* Boilerplate Role Permission without Package, Datatables, Simple and User Friendly.
+# Laravel 9.* Boilerplate Role Permission, Datatables, Simple and User Friendly.
 
 ## Features
 
-- [Laravel 9 Framework](#getting-started)
-- [Laravel Role & Permission without package](#usage)
-- [Yajra Datatable by Yajra](#contributing)
+- [Laravel 9 Framework](#Laravel)
+- [Laravel Role & Permission](#Laravel)
+- [Yajra Datatable by Yajra](#yajradatatable)
 - [License](#license)
 
 ## Requirements
@@ -24,7 +24,7 @@
 7. Run php artisan db:seed
 ### Login
 
-Url: Base URL
+Url: Base URL/login
 
 Email: admin@admin.com
 
@@ -34,11 +34,17 @@ Password: password
 
 ## Contributing
 
-Thank you for considering contributing to the Laravel Boilerplate project! Please feel free to make any pull requests, or e-mail me a feature request you would like to see in the future to Md.Borhan Uddin at mdborhan410@gmail.com.
+Thank you for considering contributing to the Laravel Boilerplate project! Please feel free to make any pull requests, or e-mail me a feature request you would like to see in the future to Md.Borhan Uddin at mdborhan410@gmail.com
 
 1. Fork the repository
 2. Create a new branch
 3. Make your changes
 4. Submit a pull request
 
+## Login Page 
+![Login Page](public/img/login.png)
+## Dashboard Page 
+![Login Page](public/img/dashboard.png)
+## User Management Page 
+![Login Page](public/img/permission.png)
 
